@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Inyectar logo
   const logoContainer = document.querySelector(".logo-container");
   logoContainer.innerHTML = `
-    <h1 class="text-2xl font-bold">snap</h1>
+    <h1 class="text-4xl font-bold">snap</h1>
   `;
 
   // Referencias
